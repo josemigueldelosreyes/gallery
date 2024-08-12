@@ -30,6 +30,7 @@ export class ProyectsComponent {
     '../../../assets/images/018.jpg',
     '../../../assets/images/019.jpg',
     '../../../assets/images/020.jpg',
-    '../../../assets/images/021.jpg'
+    '../../../assets/images/021.jpg',
+    '../../../assets/images/022.jpg'
   ];
 }
